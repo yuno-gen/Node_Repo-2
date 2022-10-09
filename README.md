@@ -1,1 +1,2 @@
-# Node_Repo-2
+# conFusion-server
+An express REST API with MongoDB and Mongoose
